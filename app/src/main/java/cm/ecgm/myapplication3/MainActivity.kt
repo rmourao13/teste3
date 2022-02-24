@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 
 
         //ola//
-        // novo comentario //
+        // novo comentario editado //
     }
 }
